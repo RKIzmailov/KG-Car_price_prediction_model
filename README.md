@@ -1,4 +1,4 @@
-# Vehicle Price Prediction for Cars in Kyrgyzstan
+# Vehicle Price Prediction
 This project aims to predict the prices of vehicles for sale in Kyrgyzstan using machine learning techniques. The project involves several steps, including web scraping, data preprocessing, model training, hyperparameter optimization, and model ensembling.
 
 ## Project Overview
